@@ -124,4 +124,4 @@ Symbol은 이 프로퍼티가 전용/특수/내부 프로퍼티라는 것을 알
 
 다시 한번 정리하면, Object는 키와 값의 매핑 값이라고 정리할 수 있습니다.
 
-자바스크립트에서 function도 Object로 취급하는데 function은 호출 가능한 특성을 추가한 Object라고 보면 이해하기 쉽습니다.
+자바스크립트에서 function도 Object로 취급하는데 function은 호출 가능한 특성을 추가한 Object라고 보면 이해하기 쉽습니다.  
