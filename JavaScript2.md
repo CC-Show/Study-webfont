@@ -1,12 +1,3 @@
----
-layout: post
-title: JavaScript에 대한 고찰 2
-date: 2017-10-30
-excerpt: "JavaScript의 프로토타입에 대해 알아보자"
-tags: [js, post, JavaScript 고찰]
-comments: true
----
-
 이번에는 JavaScript의 **프로토타입**에 대해서 알아보겠습니다.
 
 ## 프로토타입(Prototype)
